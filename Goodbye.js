@@ -1,5 +1,5 @@
 begin
      goodbye world
-     goodbye folk!!!
+     goodbye folk
 end;
 
